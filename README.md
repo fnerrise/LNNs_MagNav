@@ -24,7 +24,7 @@ Our pipeline contributes the following:
 Coming soon!
 
 ## Acknowledgments
-This work was completed at SandboxAQ\footnote{Solving global challenges with AI + Quantum for positive impact. More at \url{sandboxaq.com}.} as a part of the Residency Program. F.N. expresses her profound gratitude to her SandboxAQ team members and peers for their dedicated expertise, mentorship, and support in completing this work. F.N. is also thankful to her research advisors at Stanford University, founding research scientists at Liquid AI, and open-source MagNav-AI collaborators and partners for their scientific and technical contributions that inspired this work.  
+This work was completed at [SandboxAQ](https://www.sandboxaq.com/) as a part of the Residency Program. F.N. expresses her profound gratitude to her SandboxAQ team members and peers for their dedicated expertise, mentorship, and support in completing this work. F.N. is also thankful to her research advisors at Stanford University, founding research scientists at Liquid AI, and open-source MagNav-AI collaborators and partners for their scientific and technical contributions that inspired this work.
 
 
 ## Citation
